@@ -4,6 +4,7 @@ metadata:
   name: docs
   annotations:
     github.com/project-slug: csquire/docs
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
